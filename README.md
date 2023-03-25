@@ -24,7 +24,42 @@ Rock beats scissors
 Scissors beats paper  
 Paper beats rock  
 ~~~
-The game will continue until you choose not to play anymore.
+The game will continue until you choose not to play anymore.  
+
+~~~
+Do you want to play Rock-Paper-Scissors? y/n: y
+
+What do you choose?
+0 - rock
+1 - paper
+2 - scissors
+: 0
+
+    _______
+---'   ____)
+      (_____)
+      (_____)
+      (____)
+---.__(___)
+
+Computer chose:
+
+    _______
+---'   ____)____
+          ______)
+          _______)
+         _______)
+---.__________)
+
+You win! ٩(̃-̮̮̃-)۶ 🎉
+
+Do you want to play Rock-Paper-Scissors? y/n: n
+
+--------
+Goodbye!
+--------
+~~~  
+
 
 # Contributing
 
