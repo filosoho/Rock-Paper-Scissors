@@ -4,7 +4,11 @@ Welcome to the classic game of Rock-Paper-Scissors! This is a small text-based g
 
 # How to Play
 
-To play the game, simply run the script in a Python environment. The game will ask you if you want to play Rock-Paper-Scissors. Type 'y' or 'n' and press enter.
+To play the game, simply run:
+~~~
+main.py
+~~~
+in a Python environment. The game will ask you if you want to play Rock-Paper-Scissors. Type 'y' or 'n' and press enter.
 
 If you choose to play, you will be prompted to choose your weapon by typing the corresponding number:
 
@@ -15,15 +19,12 @@ If you choose to play, you will be prompted to choose your weapon by typing the 
 2 - scissors
 
 After making your selection, the computer will randomly choose its weapon, and the winner will be determined according to the rules of the game:
-
-Rock beats scissors
-
-Scissors beats paper
-
-Paper beats rock
-
+~~~
+Rock beats scissors  
+Scissors beats paper  
+Paper beats rock  
+~~~
 The game will continue until you choose not to play anymore.
-
 
 # Contributing
 
